@@ -1,0 +1,35 @@
+# Hugging Face & Transformers
+transformers
+datasets
+accelerate>=0.26.0
+huggingface_hub
+sentencepiece
+
+# PyTorch with CUDA 12.4
+torch==2.6.0+cu124
+torchaudio==2.6.0+cu124
+torchvision==0.21.0+cu124
+# These are available from PyTorch's CUDA 12.4 wheel index:
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# Utility packages
+torchsummary
+scikit-learn
+spacy
+spacy-legacy
+spacy-loggers
+
+# JSON utilities
+jsonpatch==1.33
+jsonpickle==4.0.5
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2025.4.1
+
+# Data science stack
+pandas
+numpy==2.0.2
+
+# Additional libs
+protobuf==4.25.3
+tiktoken>=0.5.2
