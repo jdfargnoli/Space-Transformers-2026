@@ -1,4 +1,4 @@
 # Space-Transformers-2026
 This code takes the example given in the paper "SpaceTransformers: Language Modeling for Space Systems"  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9548078  and starts with the source code and domain-specific models are available at github.com/strath-ace/smart-nlp and adds the ability to evaluative models and provides new features.
-The Word document in this folder provides all information needed to understnad teh role of each program adn how to run each.
-All data required is provided,
+The Word document in this folder provides all information needed to understnad the role of each program and how to run each.
+All data required is provided.
